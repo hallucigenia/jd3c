@@ -6,6 +6,14 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+pymongo = "*"
+numpy = "*"
+padas = "*"
+matplorlib = "*"
+wordcloud = "*"
+lxml = "*"
+matplotlib = "*"
+requests = "*"
 
 [requires]
 python_version = "3.7"
